@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-marica-path-checker-plugin",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "plugin for production project",
   "keywords": [
     "eslint",
